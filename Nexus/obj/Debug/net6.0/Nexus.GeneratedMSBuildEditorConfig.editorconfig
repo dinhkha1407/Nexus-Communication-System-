@@ -1,0 +1,129 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Nexus
+build_property.RootNamespace = Nexus
+build_property.ProjectDir = E:\C2110G._NhomNay._NexusServiceMarketingSystem\Nexus\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\C2110G._NhomNay._NexusServiceMarketingSystem\Nexus
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/Blog/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/Blog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/CusBuying/Complete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzQnV5aW5nXENvbXBsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/CusBuying/CreateOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzQnV5aW5nXENyZWF0ZU9yZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/CusBuying/Information.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzQnV5aW5nXEluZm9ybWF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/Information/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb3JtYXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/MainPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblBhZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/SearchStore/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoU3RvcmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/ServicePlan/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVBsYW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/ServicePlan/ServicePlanDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVBsYW5cU2VydmljZVBsYW5EZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/ServicePlan/ServicePlanWithCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVBsYW5cU2VydmljZVBsYW5XaXRoQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/Shared/_AllBill.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BbGxCaWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/Shared/_LayoutPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/Shared/_OrderCancelled.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9PcmRlckNhbmNlbGxlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/Shared/_OrderExpired.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9PcmRlckV4cGlyZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/Shared/_OrderRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9PcmRlclJlcXVlc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/Shared/_OrderUsing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9PcmRlclVzaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/Shared/_SearchStore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TZWFyY2hTdG9yZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/Shared/_ServicePlanPrice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TZXJ2aWNlUGxhblByaWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/Storage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmFnZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/C2110G._NhomNay._NexusServiceMarketingSystem/Nexus/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

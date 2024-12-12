@@ -1,0 +1,669 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\5g.jpg",
+      "PackagePath": "staticwebassets\\Image\\5g.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638178501491573359adst2.jpg",
+      "PackagePath": "staticwebassets\\Image\\638178501491573359adst2.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638178503018715016adst2.jpg",
+      "PackagePath": "staticwebassets\\Image\\638178503018715016adst2.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638179276755021005logo.png",
+      "PackagePath": "staticwebassets\\Image\\638179276755021005logo.png"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638179324247678116noresult.jpg",
+      "PackagePath": "staticwebassets\\Image\\638179324247678116noresult.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638179325378822384nexus.png",
+      "PackagePath": "staticwebassets\\Image\\638179325378822384nexus.png"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638180272321493197adst1.png",
+      "PackagePath": "staticwebassets\\Image\\638180272321493197adst1.png"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638180278037910388adst2.jpg",
+      "PackagePath": "staticwebassets\\Image\\638180278037910388adst2.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638180280052897334adst1.png",
+      "PackagePath": "staticwebassets\\Image\\638180280052897334adst1.png"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638180282509867341logo.png",
+      "PackagePath": "staticwebassets\\Image\\638180282509867341logo.png"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638180284507630630favicon.png",
+      "PackagePath": "staticwebassets\\Image\\638180284507630630favicon.png"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638180284717695991adst2.jpg",
+      "PackagePath": "staticwebassets\\Image\\638180284717695991adst2.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638180295070047966adst1.png",
+      "PackagePath": "staticwebassets\\Image\\638180295070047966adst1.png"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638180317466030635adst1 - Copy.png",
+      "PackagePath": "staticwebassets\\Image\\638180317466030635adst1 - Copy.png"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638180318129381907adst1.png",
+      "PackagePath": "staticwebassets\\Image\\638180318129381907adst1.png"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638180318904857485adst1.png",
+      "PackagePath": "staticwebassets\\Image\\638180318904857485adst1.png"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638180319068596667adst1.png",
+      "PackagePath": "staticwebassets\\Image\\638180319068596667adst1.png"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638180329716477300adst1.png",
+      "PackagePath": "staticwebassets\\Image\\638180329716477300adst1.png"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638182113274524186adst2.jpg",
+      "PackagePath": "staticwebassets\\Image\\638182113274524186adst2.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638182341178730739noresult.jpg",
+      "PackagePath": "staticwebassets\\Image\\638182341178730739noresult.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638182343936532117screenshot.png",
+      "PackagePath": "staticwebassets\\Image\\638182343936532117screenshot.png"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638182345807326141nexus.png",
+      "PackagePath": "staticwebassets\\Image\\638182345807326141nexus.png"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638191445747463114screenshot.png",
+      "PackagePath": "staticwebassets\\Image\\638191445747463114screenshot.png"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638191784832331933_549x335.jpg",
+      "PackagePath": "staticwebassets\\Image\\638191784832331933_549x335.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638191786737339217_549x335.jpg",
+      "PackagePath": "staticwebassets\\Image\\638191786737339217_549x335.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638191803088865849_549x335.jpg",
+      "PackagePath": "staticwebassets\\Image\\638191803088865849_549x335.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638191837450830736_549x335.jpg",
+      "PackagePath": "staticwebassets\\Image\\638191837450830736_549x335.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638191837644591256_549x335.jpg",
+      "PackagePath": "staticwebassets\\Image\\638191837644591256_549x335.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638191838758982107_549x335.jpg",
+      "PackagePath": "staticwebassets\\Image\\638191838758982107_549x335.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638191847572291093_549x335.jpg",
+      "PackagePath": "staticwebassets\\Image\\638191847572291093_549x335.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638191848442901895screenshot.png",
+      "PackagePath": "staticwebassets\\Image\\638191848442901895screenshot.png"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638191848634113496_549x335.jpg",
+      "PackagePath": "staticwebassets\\Image\\638191848634113496_549x335.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638191853164949153_549x335.jpg",
+      "PackagePath": "staticwebassets\\Image\\638191853164949153_549x335.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638191868308082890adst1 - Copy.png",
+      "PackagePath": "staticwebassets\\Image\\638191868308082890adst1 - Copy.png"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638191871383237546_549x335.jpg",
+      "PackagePath": "staticwebassets\\Image\\638191871383237546_549x335.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638192221323658356_549x335.jpg",
+      "PackagePath": "staticwebassets\\Image\\638192221323658356_549x335.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638192243904288998adst2.jpg",
+      "PackagePath": "staticwebassets\\Image\\638192243904288998adst2.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638192600813493682_549x335.jpg",
+      "PackagePath": "staticwebassets\\Image\\638192600813493682_549x335.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638192614461266485screenshot.png",
+      "PackagePath": "staticwebassets\\Image\\638192614461266485screenshot.png"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638192636834584656contact-form-17.zip",
+      "PackagePath": "staticwebassets\\Image\\638192636834584656contact-form-17.zip"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638192705274464647dc457786891717ba9bb62904ec83942f.jpg",
+      "PackagePath": "staticwebassets\\Image\\638192705274464647dc457786891717ba9bb62904ec83942f.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638192740007311037631f97c2294ee8cd83d222c639f9a088.jpg",
+      "PackagePath": "staticwebassets\\Image\\638192740007311037631f97c2294ee8cd83d222c639f9a088.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638192741997837891dc457786891717ba9bb62904ec83942f.jpg",
+      "PackagePath": "staticwebassets\\Image\\638192741997837891dc457786891717ba9bb62904ec83942f.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638193987753514850631f97c2294ee8cd83d222c639f9a088.jpg",
+      "PackagePath": "staticwebassets\\Image\\638193987753514850631f97c2294ee8cd83d222c639f9a088.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638194293151691987638182343936532117screenshot.png",
+      "PackagePath": "staticwebassets\\Image\\638194293151691987638182343936532117screenshot.png"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638194293282147665638192741997837891dc457786891717ba9bb62904ec83942f.jpg",
+      "PackagePath": "staticwebassets\\Image\\638194293282147665638192741997837891dc457786891717ba9bb62904ec83942f.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638194293530637936638192614461266485screenshot.png",
+      "PackagePath": "staticwebassets\\Image\\638194293530637936638192614461266485screenshot.png"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638194295223319686638193987753514850631f97c2294ee8cd83d222c639f9a088.jpg",
+      "PackagePath": "staticwebassets\\Image\\638194295223319686638193987753514850631f97c2294ee8cd83d222c639f9a088.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638194296657364522638191871383237546_549x335.jpg",
+      "PackagePath": "staticwebassets\\Image\\638194296657364522638191871383237546_549x335.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638194296781057600638191848442901895screenshot.png",
+      "PackagePath": "staticwebassets\\Image\\638194296781057600638191848442901895screenshot.png"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638194299815334363e227667cb6644609889ce2cecb8d87fa.jpg",
+      "PackagePath": "staticwebassets\\Image\\638194299815334363e227667cb6644609889ce2cecb8d87fa.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638194321535281764638191445747463114screenshot.png",
+      "PackagePath": "staticwebassets\\Image\\638194321535281764638191445747463114screenshot.png"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638194322425333445dc457786891717ba9bb62904ec83942f.jpg",
+      "PackagePath": "staticwebassets\\Image\\638194322425333445dc457786891717ba9bb62904ec83942f.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638194326413404168638194322425333445dc457786891717ba9bb62904ec83942f.jpg",
+      "PackagePath": "staticwebassets\\Image\\638194326413404168638194322425333445dc457786891717ba9bb62904ec83942f.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638194326493472716638194326413404168638194322425333445dc457786891717ba9bb62904ec83942f.jpg",
+      "PackagePath": "staticwebassets\\Image\\638194326493472716638194326413404168638194322425333445dc457786891717ba9bb62904ec83942f.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638194326638821694a7bf099a23c9e2008ca4bcd54be3c92d.jpg",
+      "PackagePath": "staticwebassets\\Image\\638194326638821694a7bf099a23c9e2008ca4bcd54be3c92d.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638194327080605466a7bf099a23c9e2008ca4bcd54be3c92d.jpg",
+      "PackagePath": "staticwebassets\\Image\\638194327080605466a7bf099a23c9e2008ca4bcd54be3c92d.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638194330145364876631f97c2294ee8cd83d222c639f9a088.jpg",
+      "PackagePath": "staticwebassets\\Image\\638194330145364876631f97c2294ee8cd83d222c639f9a088.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638194330459918631638194330145364876631f97c2294ee8cd83d222c639f9a088.jpg",
+      "PackagePath": "staticwebassets\\Image\\638194330459918631638194330145364876631f97c2294ee8cd83d222c639f9a088.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638194364787858129dc457786891717ba9bb62904ec83942f.jpg",
+      "PackagePath": "staticwebassets\\Image\\638194364787858129dc457786891717ba9bb62904ec83942f.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\6381943654751280879e475e9cbb3101529d0a647e28a3aa36.jpg",
+      "PackagePath": "staticwebassets\\Image\\6381943654751280879e475e9cbb3101529d0a647e28a3aa36.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\6381943743710918109e475e9cbb3101529d0a647e28a3aa36.jpg",
+      "PackagePath": "staticwebassets\\Image\\6381943743710918109e475e9cbb3101529d0a647e28a3aa36.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638194374640519065dc457786891717ba9bb62904ec83942f.jpg",
+      "PackagePath": "staticwebassets\\Image\\638194374640519065dc457786891717ba9bb62904ec83942f.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\6381943754263904876381943743710918109e475e9cbb3101529d0a647e28a3aa36.jpg",
+      "PackagePath": "staticwebassets\\Image\\6381943754263904876381943743710918109e475e9cbb3101529d0a647e28a3aa36.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638194375528931045631f97c2294ee8cd83d222c639f9a088.jpg",
+      "PackagePath": "staticwebassets\\Image\\638194375528931045631f97c2294ee8cd83d222c639f9a088.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638194379574732936dc457786891717ba9bb62904ec83942f.jpg",
+      "PackagePath": "staticwebassets\\Image\\638194379574732936dc457786891717ba9bb62904ec83942f.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638194384400182465a7bf099a23c9e2008ca4bcd54be3c92d.jpg",
+      "PackagePath": "staticwebassets\\Image\\638194384400182465a7bf099a23c9e2008ca4bcd54be3c92d.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638194819301384442e25ad94c6af3b6adefe2.jpg",
+      "PackagePath": "staticwebassets\\Image\\638194819301384442e25ad94c6af3b6adefe2.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638194820811392945e25ad94c6af3b6adefe2.jpg",
+      "PackagePath": "staticwebassets\\Image\\638194820811392945e25ad94c6af3b6adefe2.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638194821057796223ec87d291612ebd70e43f.jpg",
+      "PackagePath": "staticwebassets\\Image\\638194821057796223ec87d291612ebd70e43f.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638194863556498370ec87d291612ebd70e43f.jpg",
+      "PackagePath": "staticwebassets\\Image\\638194863556498370ec87d291612ebd70e43f.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\6381949918970020945g.jpg",
+      "PackagePath": "staticwebassets\\Image\\6381949918970020945g.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\6381949920880499446381949918970020945g.jpg",
+      "PackagePath": "staticwebassets\\Image\\6381949920880499446381949918970020945g.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\6381950010613876145g.jpg",
+      "PackagePath": "staticwebassets\\Image\\6381950010613876145g.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638195004685765033e.jpg",
+      "PackagePath": "staticwebassets\\Image\\638195004685765033e.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638195005184431913f.jpg",
+      "PackagePath": "staticwebassets\\Image\\638195005184431913f.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638195005939902243a.jpg",
+      "PackagePath": "staticwebassets\\Image\\638195005939902243a.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638195006409725358d.jpg",
+      "PackagePath": "staticwebassets\\Image\\638195006409725358d.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\6381974448308460176381950010613876145g.jpg",
+      "PackagePath": "staticwebassets\\Image\\6381974448308460176381950010613876145g.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638197445385716799eee0daf66949b517ec58.jpg",
+      "PackagePath": "staticwebassets\\Image\\638197445385716799eee0daf66949b517ec58.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638197445743766708e25ad94c6af3b6adefe2.jpg",
+      "PackagePath": "staticwebassets\\Image\\638197445743766708e25ad94c6af3b6adefe2.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\6381974554824656476381950010613876145g.jpg",
+      "PackagePath": "staticwebassets\\Image\\6381974554824656476381950010613876145g.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638197456137793983e5ffd7e96456b808e147.jpg",
+      "PackagePath": "staticwebassets\\Image\\638197456137793983e5ffd7e96456b808e147.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638197456356871587ec87d291612ebd70e43f.jpg",
+      "PackagePath": "staticwebassets\\Image\\638197456356871587ec87d291612ebd70e43f.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\638197456643657115e5ffd7e96456b808e147.jpg",
+      "PackagePath": "staticwebassets\\Image\\638197456643657115e5ffd7e96456b808e147.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\Kha.jpg",
+      "PackagePath": "staticwebassets\\Image\\Kha.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\Neuxs.jpg",
+      "PackagePath": "staticwebassets\\Image\\Neuxs.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\OIP.jpg",
+      "PackagePath": "staticwebassets\\Image\\OIP.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\Phone.jpg",
+      "PackagePath": "staticwebassets\\Image\\Phone.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\Thunder.jpg",
+      "PackagePath": "staticwebassets\\Image\\Thunder.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\a.jpg",
+      "PackagePath": "staticwebassets\\Image\\a.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\b.jpg",
+      "PackagePath": "staticwebassets\\Image\\b.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\c.jpg",
+      "PackagePath": "staticwebassets\\Image\\c.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\d.jpg",
+      "PackagePath": "staticwebassets\\Image\\d.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\e.jpg",
+      "PackagePath": "staticwebassets\\Image\\e.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\f.jpg",
+      "PackagePath": "staticwebassets\\Image\\f.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\g.jpg",
+      "PackagePath": "staticwebassets\\Image\\g.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\h.jpg",
+      "PackagePath": "staticwebassets\\Image\\h.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\i.jpg",
+      "PackagePath": "staticwebassets\\Image\\i.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\mainpage.jpg",
+      "PackagePath": "staticwebassets\\Image\\mainpage.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\shark.jpg",
+      "PackagePath": "staticwebassets\\Image\\shark.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\Image\\starwar.jpg",
+      "PackagePath": "staticwebassets\\Image\\starwar.jpg"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\C2110G._NhomNay._NexusServiceMarketingSystem\\Nexus\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Nexus.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Nexus.props",
+      "PackagePath": "build\\Nexus.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Nexus.props",
+      "PackagePath": "buildMultiTargeting\\Nexus.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Nexus.props",
+      "PackagePath": "buildTransitive\\Nexus.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
